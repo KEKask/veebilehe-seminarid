@@ -15,3 +15,12 @@ h1{
 img{
     box-shadow: 10px 10px 10px 10px darkblue;
 }
+th{
+    background-color: #c1eaf7;
+    color: black;
+    font-weight: bold;
+    font-size: 60px
+}
+tr{
+    font-size: 40px;
+}
