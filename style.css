@@ -1,4 +1,11 @@
-head{
+body{
+    background-color: lightblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+    text-align: left;
+}
+h1{
     background-color: black;
     color: white;
     font-family: sans-serif;
