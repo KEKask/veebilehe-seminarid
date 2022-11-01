@@ -4,6 +4,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     text-align: left;
+    
 }
 h1{
     background-color: black;
@@ -23,4 +24,21 @@ th{
 }
 tr{
     font-size: 40px;
+}
+.split {
+    height: 100%;
+    width: 45%;
+    position: fixed;
+    z-index: 1;
+    top: 300px;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    left: 40px;
+}
+
+.right {
+    right: 0;
 }
